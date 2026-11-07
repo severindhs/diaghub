@@ -1,0 +1,6 @@
+Typ,Name,Text,Zentrum,Start,Ende,Durchmesser,Umfang,Fläche,Länge,Winkel,Distanz,Breite
+Lineal,S1,,"(5.61,4.91)",,,,,,1.00,,,
+Linie,L1,,"(9.19,6.61)","(9.21,6.11)","(9.17,7.11)",,,,1.00,,,
+Rechteck,R1,,"(1.96,2.49)","(0.58,1.85)","(3.33,3.13)",,8.06,3.53,2.75,,,1.29
+Kurve,Cv1,,"(9.07,5.63)",,,,,,0.00,,,
+Kurve,Cv2,,"(9.81,5.27)",,,,,,1.82,,,

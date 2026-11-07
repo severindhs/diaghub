@@ -1,0 +1,22 @@
+Hinweis: Verarbeite Symbol "R1:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Aktualisiere Designvarianten ...
+Hinweis: Verarbeite Symbol "J1:".
+Blattname von R1 auf "helloworld1.kicad_sch" aktualisiert.
+Variante "hhh" hinzugefügt.
+Variante "h2" hinzugefügt.
+Metadaten der Einheit R1 aktualisiert.
+R1 Pin 2 nach Net-(J1-Pin_2) verbunden.
+Netz Net-(J1-Pin_2) hinzufügen.
+R1 Pin 1 nach Net-(J1-Pin_1) verbunden.
+Netz Net-(J1-Pin_1) hinzufügen.
+R1 Footprint-Filter auf "R_*" aktualisiert.
+Schaltplanblatt R1 auf / aktualisiert.
+R1 Felder aktualisiert.
+Symbolverknüpfung R1 von  nach /dd38cac5-ae46-41da-b3eb-047925a94860 aktualisiert.
+Wert R1 von R_0603_1608Metric in R geändert.
+Referenzbezeichner REF** in R1 geändert.
+R1 hinzugefügt (Footprint "Resistor_SMD:R_0603_1608Metric").
+Fehler: Kann J1 nicht hinzufügen (kein Footprint zugewiesen).
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 1.
