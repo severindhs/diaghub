@@ -1,0 +1,12 @@
+apt search python3-can
+sudo apt install python3-can
+
+ip link show
+dmesg | tail -50
+sudo modprobe can
+sudo modprobe can_raw
+sudo modprobe peak_usb
+ip link show
+sudo ip link set can0 up
+sudo ip link set can0 type can bitrate 125000
+sudo ip link set can0 down
